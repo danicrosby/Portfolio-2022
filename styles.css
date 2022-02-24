@@ -11,6 +11,11 @@
   padding-top: 1rem;
 }
 
+.projects-page,
+.nss-projects-page {
+  margin-top: 3rem;
+}
+
 .about-wrapper {
   display: flex;
   justify-content: center;
