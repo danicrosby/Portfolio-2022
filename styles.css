@@ -165,7 +165,7 @@ a.button:hover {
 
   .contact-icon-container,
   .bouncy,
-  .navbar-brand,
+  .navbar,
   .avatar,
   .projects-icon {
     display: none;
@@ -176,10 +176,13 @@ a.button:hover {
     display: none;
   }
 
-  .projects-page {
+  .projects-page,
+  .nss-projects-page {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-top: .5rem;
+    margin-bottom:.5rem;
   }
  
   .project-title {
